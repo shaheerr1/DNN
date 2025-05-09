@@ -97,13 +97,3 @@ Both notebooks include helper functions:
 They return a list of movie titles for the specified user.
 
 ---
-
-## Next Steps
-
-- Hyperparameter tuning (embedding size, hidden dims, dropout rates)
-- Learning‑rate schedulers & early stopping
-- Incorporate bias terms and global mean
-- Explore advanced CF architectures (NCF, GNN‑based, VAE)
-
----
-
